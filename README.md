@@ -1,3 +1,9 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Domain](https://img.shields.io/badge/Domain-Retail%20Analytics-green)
+![Project](https://img.shields.io/badge/Type-Dashboard-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 📊 Retail Supply Chain & Sales Analysis Dashboard
 
 # 📌 Project Overview
@@ -51,7 +57,6 @@ The data was cleaned, transformed, and modeled before visualization.
 # 🛠 Tools & Technologies Used
 
 -   Power BI Desktop
--   Data Modeling (Star Schema approach)
 -   DAX Measures
 -   KPI Cards
 -   Line & Bar Charts
